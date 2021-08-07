@@ -1,4 +1,4 @@
 # weasel_program
 
-my version of the weasel program in python,
+my versions of the weasel program,
   based on https://en.wikipedia.org/wiki/Weasel_program
